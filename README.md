@@ -1,6 +1,7 @@
 # M02PA-LoopsAndConditionals
 
 Complete the sections 4.1 4.2 6.1 6.2 6.3 of Chapter 4 and 6 in Jupyter Notebook.
+
 4.1 Choose a number between 1 and 10 and assign it to the variable secret. Then, select another number between 1 and 10 and assign it to the variable guess. Next, write the conditional tests (if, else, and elif) to print the string 'too low' if guess is less than secret, 'too high' if greater than secret, and 'just right' if equal to secret.
 
 4.2 Assign True or False to the variables small and green. Write some if/else statements to print which of these matches those choices: cherry, pea, watermelon, pumpkin.
